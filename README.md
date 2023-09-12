@@ -1,2 +1,2 @@
-# Card-produck-design
+# Card-product-design
 card product design for later projects
